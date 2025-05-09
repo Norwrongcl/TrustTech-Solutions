@@ -1,6 +1,7 @@
 # TrustTech-Solutions
 
 **Tecnología confiable. Soluciones integrales.**
+
 🛠️ Enfocado en soluciones tecnológicas confiables para usuarios particulares y empresas.
 
 Este repositorio contiene la planificación, documentación y recursos del emprendimiento tecnológico **TrustTech Solutions**, dedicado a ofrecer servicios técnicos para usuarios particulares y empresas.
